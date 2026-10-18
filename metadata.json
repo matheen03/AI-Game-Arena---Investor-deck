@@ -1,0 +1,6 @@
+{
+  "name": "AI GAME ARENA: Investor Edition",
+  "description": "Grade 8 AI Game Arcade & Investor Competition platform for Al-Rowad International Schools. Features game registration, QR codes, virtual AI Coin investing, live classroom leaderboards, 12-section consolidated standings, and Shark Tank PTM finals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
